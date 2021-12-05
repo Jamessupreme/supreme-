@@ -1,2 +1,10 @@
-# supreme-
-Powers within 
+DISPLAYED BY OKUMOKO JAMES TONBRA UG/17/2753
+THE FILES STORED IN THIS RESPOSITORY INCLUDE
+A C++ CODE A FLOW CHART AND THE README.md 
+THE NECESSARY TERMS OBSERVED IN THE SIMULATION 
+PROGRAM INCLUDE;Double Clock, MeanInterArrivalTime,
+MeanServiceTime,SIGMA,LastEventTime,TotalBusy,
+MaxQueueLength,SumResponseTime;long NumberOfCustomers, 
+QueueLength,NumberInService,TotalCustomers,
+NumberOfDepartures,LongService; ALL THIS WILL BE
+THE NECESSARY TOOLS FOR IDENTIFYING A SINGLE SERVER SIMULATION 
